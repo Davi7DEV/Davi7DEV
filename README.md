@@ -1,22 +1,52 @@
+# 👋 Oi, eu sou @Davi7DEV | Quant & Data-Driven Accountant 📊
 
-<div>
-<a href="https://github.com/Davi7DEV">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi7DEV&layout=compact&langs_count=7&theme=dark"/>
-</a></div>
-
-- 👋 Oi, Eu sou @Davi7DEV
-- 👀 Estou interessado em Ciência de Dados
-
-### - Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
-
-
-### - 📫 Como me achar
-
-<div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div align="center">
+  <a href="https://github.com/Davi7DEV">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi7DEV&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=0077B5&icon_color=0077B5"/>
+  </a>
 </div>
- 
 
+---
+
+### 🎯 Sobre Mim
+Sou graduando em **Ciências Contábeis** focado na aplicação de **Ciência de Dados** para o mercado financeiro e auditoria digital. Utilizo ferramentas de análise estatística e automação para transformar dados contábeis brutos em insights estratégicos e modelos preditivos de alta performance.
+
+* 📖 **Formação:** Acadêmico de Ciências Contábeis.
+* 🧪 **Interesses de Pesquisa:** Finanças Quantitativas, Auditoria Algorítmica e Modelagem de Risco.
+* 🔭 **Exploração:** Séries Temporais Financeiras, Previsão de Insolvência e Engenharia Financeira.
+
+---
+
+### 🛠 Tech Stack (Finance & Data)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+---
+
+### 🏗️ Projetos em Desenvolvimento (Accounting & Data)
+
+* **[Risk-Scoring-Model]:** Algoritmo em Python para cálculo automatizado de Z-Score e modelos de insolvência financeira.
+
+---
+
+### 📫 Conecte-se Comigo
+
+<div align="left">
+<a href="https://www.linkedin.com/in/seu-usuario-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="mailto:seu-email@aqui.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://instagram.com/seu-usuario-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
+---
+
+> *"The goal is to turn data into information, and information into insight."* – Carly Fiorina (Ex-CEO HP)
