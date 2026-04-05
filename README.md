@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Davi7DEV">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi7DEV&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=0077B5&icon_color=0077B5"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davi7DEV&theme=dark&hide_border=true&stroke=0077B5&ring=FFFFFF&fire=0077B5&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" height="150px" />
   </a>
 </div>
 
